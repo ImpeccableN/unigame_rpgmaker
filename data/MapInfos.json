@@ -1,11 +1,11 @@
 [
 null,
-{"id":1,"expanded":false,"name":"SchuleAussen","order":7,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":false,"name":"SchuleAussen","order":7,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
 null,
-{"id":3,"expanded":true,"name":"SchuleFlur","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"SchuleKlassenzimmer01","order":2,"parentId":3,"scrollX":1012.4444444444445,"scrollY":569.7777777777778},
-{"id":5,"expanded":false,"name":"SchuleBibliothek","order":3,"parentId":3,"scrollX":1012.4444444444445,"scrollY":569.7777777777778},
+{"id":3,"expanded":true,"name":"SchuleFlur","order":1,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
+{"id":4,"expanded":false,"name":"SchuleKlassenzimmer01","order":2,"parentId":3,"scrollX":728,"scrollY":409.77777777777777},
+{"id":5,"expanded":false,"name":"SchuleBibliothek","order":3,"parentId":3,"scrollX":728,"scrollY":409.77777777777777},
 {"id":6,"expanded":false,"name":"SchuleKlassenzimmer02","order":5,"parentId":3,"scrollX":832,"scrollY":640},
-{"id":7,"expanded":false,"name":"SchuleTrainigsraum","order":4,"parentId":3,"scrollX":1012.4444444444445,"scrollY":569.7777777777778},
-{"id":8,"expanded":false,"name":"Dorf","order":6,"parentId":0,"scrollX":1012.4444444444445,"scrollY":569.7777777777778}
+{"id":7,"expanded":false,"name":"SchuleTrainigsraum","order":4,"parentId":3,"scrollX":728,"scrollY":409.77777777777777},
+{"id":8,"expanded":false,"name":"Dorf","order":6,"parentId":0,"scrollX":801.7777777777778,"scrollY":557.3333333333334}
 ]
