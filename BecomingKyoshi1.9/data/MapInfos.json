@@ -9,10 +9,10 @@ null,
 {"id":7,"expanded":true,"name":"SchuleTrainingsraum","order":4,"parentId":9,"scrollX":759.3333333333334,"scrollY":411},
 {"id":8,"expanded":true,"name":"BossRoom","order":12,"parentId":2,"scrollX":754,"scrollY":711.6666666666666},
 {"id":9,"expanded":true,"name":"SchuleAussen","order":2,"parentId":1,"scrollX":754,"scrollY":655},
-{"id":10,"expanded":true,"name":"Dorf","order":13,"parentId":1,"scrollX":1139.3333333333333,"scrollY":405.6666666666667},
+{"id":10,"expanded":true,"name":"Dorf","order":13,"parentId":1,"scrollX":1139,"scrollY":641},
 {"id":11,"expanded":false,"name":"HöhleAmMeer","order":14,"parentId":1,"scrollX":754,"scrollY":411},
 {"id":12,"expanded":true,"name":"ThirdFloorRoom","order":10,"parentId":13,"scrollX":759.3333333333334,"scrollY":411},
 {"id":13,"expanded":true,"name":"DungeonThirdFloor","order":9,"parentId":2,"scrollX":754,"scrollY":641},
-{"id":14,"expanded":false,"name":"SchuleBibliothek","order":7,"parentId":9,"scrollX":832,"scrollY":640},
+{"id":14,"expanded":false,"name":"SchuleBibliothek","order":7,"parentId":9,"scrollX":1139,"scrollY":641},
 {"id":15,"expanded":false,"name":"Ende","order":15,"parentId":1,"scrollX":819,"scrollY":453}
 ]
