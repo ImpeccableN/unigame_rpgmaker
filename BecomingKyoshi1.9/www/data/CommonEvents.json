@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"list":[{"code":122,"indent":0,"parameters":[6,6,0,3,5,-1,0]},{"code":122,"indent":0,"parameters":[7,7,0,3,5,-1,1]},{"code":0,"indent":0,"parameters":[]}],"name":"Spielerkoordinaten","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":121,"indent":0,"parameters":[20,20,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Schlaf","switchId":1,"trigger":0},
-{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
-]

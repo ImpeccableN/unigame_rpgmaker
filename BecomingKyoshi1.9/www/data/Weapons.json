@@ -1,5 +1,0 @@
-[
-null,
-{"id":1,"animationId":16,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":315,"name":"Fächer","note":"","params":[0,0,15,-5,0,0,5,0],"price":0,"wtypeId":10},
-{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":120,"name":"Katana","note":"","params":[0,0,20,5,0,0,10,0],"price":0,"wtypeId":2}
-]
